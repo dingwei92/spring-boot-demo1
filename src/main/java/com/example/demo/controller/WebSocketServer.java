@@ -14,7 +14,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  *
  * @Auther: dingwei
  * @Date: 2020/07/28/19:58
- * @Description:
+ * @Description: websocket
  **/
 @ServerEndpoint("/webSocket/{sid}/{n}")
 @Component
